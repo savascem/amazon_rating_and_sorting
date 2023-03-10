@@ -1,18 +1,12 @@
-###################################################
-#### Description
-###################################################
+### Description
 
 This is a case study from Data Scientist Bootcamp of "miuul". 
 
-###################################################
-#### Business Problem
-###################################################
+### Business Problem
 
 One of the most important problems in e-commerce is the accurate calculation of post-purchase ratings for products. The solution to this problem means greater customer satisfaction for the e-commerce site, better visibility for sellers' products, and a seamless shopping experience for buyers. Another problem is the proper sorting of product reviews. Misleading reviews can directly impact the sale of a product, resulting in both financial loss and customer loss. By solving these two fundamental problems, e-commerce sites and sellers can increase their sales, while customers can complete their purchasing journey seamlessly.
 
-###################################################
-#### The story of Dataset
-###################################################
+### The story of Dataset
 
 This dataset containing Amazon product data includes various metadata with product categories. The product with the most reviews in the Electronics category has user ratings and reviews.
 
